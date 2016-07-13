@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "author": "Ant Radford <ant.radford@gmail.com>",
-  "description": "A simple helpful robot for your Company",
+  "description": "custom bot for antzfarm slack service",
   "dependencies": {
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.1",
